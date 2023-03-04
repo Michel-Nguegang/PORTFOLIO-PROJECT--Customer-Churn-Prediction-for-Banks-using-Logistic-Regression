@@ -25,4 +25,4 @@ The more accesible version, the PDF, of the project is found here: https://githu
 
 The ipynb notebook of the project is found here: https://github.com/Michel-Nguegang/PORTFOLIO-PROJECT--Customer-Churn-Prediction-for-Banks-using-Logistic-Regression/blob/main/Customer%20Churn%20Prediction%20for%20Banks%20using%20Logistic%20Regression.ipynb
 
-
+Thank you!
